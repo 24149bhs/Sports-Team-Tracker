@@ -3,7 +3,7 @@
 import sqlite3
 
 #contant and variables
-DATABASE = "team"
+DATABASE = "team.db"
 #functions
 #when user input 1.
 def print_all_player():
